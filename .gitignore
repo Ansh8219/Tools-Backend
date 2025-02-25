@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs and database
+*.log
+*.sqlite3
+db.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Node modules
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Media and cache
+media/
+staticfiles/
